@@ -84,8 +84,8 @@ pod:
         default: 10
   dns_policy: "ClusterFirstWithHostNet"
   replicas:
-    ingress: 2
-    error_page: 2
+    ingress: 3
+    error_page: 3
   lifecycle:
     upgrades:
       deployments:
