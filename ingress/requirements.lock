@@ -1,6 +1,0 @@
-dependencies:
-- name: helm-toolkit
-  repository: https://cloud-operation.github.io/helm-charts
-  version: 0.1.0
-digest: sha256:3537d0fe0d34bcc568f7eb400d4978f62522b7263e7ed3f6502ec5d486ac751a
-generated: "2020-04-19T11:15:17.489506404Z"
